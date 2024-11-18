@@ -22,3 +22,5 @@ About Me:
 ### Connect with me:
 
 ### Languages and Tools:
+
+[![Kiruthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiruthika-t)](https://github.com/kiruthika-t/github-readme-stats)
