@@ -5,12 +5,7 @@
 
 Here are some ideas to get you started:![IMG-20240527-WA0012](https://github.com/user-attachments/assets/17ecf18f-ef53-4493-9a72-737e3c014876)
 -->
-
-![her](https://github.com/user-attachments/assets/14e73467-b537-4234-b1ac-54f1961d5c99)
-
-
-
-
+![download](https://github.com/user-attachments/assets/8bdff0ee-53c7-4458-b6cb-f353108e1872)
 
 About Me:
 ----
@@ -24,3 +19,6 @@ About Me:
 - 📫 How to reach me: kiruthikathangapandiyan@gmail.com
 - 😄 Pronouns: She/Her 
 
+### Connect with me:
+
+### Languages and Tools:
