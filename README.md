@@ -8,7 +8,8 @@ Here are some ideas to get you started:![IMG-20240527-WA0012](https://github.com
 https://github.com/user-attachments/assets/c838ba7f-4618-4f38-83de-04fec92d8434
 
 
-About Me: 
+About Me:
+----
 Dedicated software developer with a passion for clean code and innovative solutions. Seeking opportunities to contribute to dynamic teams and learn from experienced professionals
 
 More About Me
