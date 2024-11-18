@@ -22,4 +22,8 @@ About Me:
 ### Connect with me:
 
 ### Languages and Tools:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-t&exclude_repo=github-readme-stats,kiruthika-t.github.io)
+
+
 ![Kiruthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiruthika-t&show_icons=true&theme=radical)
