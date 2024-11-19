@@ -48,9 +48,6 @@ About Me:
 <a href="https://www.w3schools.com/html/">
 <img src="https://img.icons8.com/?size=40&id=20909&format=png&color=000000" alt="Search">
 </a>
-<a href="https://www.w3schools.com/css/">
-<img src="https://img.icons8.com/?size=40&id=7gdY5qNXaKC0&format=png&color=000000" alt="Search">
-</a>
 <a href="https://git-scm.com/">
 <img src="https://img.icons8.com/?size=40&id=20906&format=png&color=000000" alt="Search">
 </a>
@@ -59,6 +56,9 @@ About Me:
 </a>
 <a href="https://flutter.dev/">
 <img src="https://img.icons8.com/?size=40&id=7I3BjCqe9rjG&format=png&color=000000" alt="Search">
+</a>
+<a href="https://www.w3schools.com/css/">
+<img src="https://img.icons8.com/?size=40&id=7gdY5qNXaKC0&format=png&color=000000" alt="Search">
 </a>
 <a href="https://www.figma.com/">
 <img src="https://img.icons8.com/?size=40&id=P5ROoX4rxKSE&format=png&color=000000" alt="Search">
