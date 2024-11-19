@@ -12,7 +12,7 @@ Here are some ideas to get you started:![IMG-20240527-WA0012](https://github.com
 
 About Me:
 ----
-<p align="center">Dedicated software developer with a passion for clean code and innovative solutions. Seeking opportunities to contribute to dynamic teams and learn from experienced professionals</p>
+#### <p align="center">Dedicated software developer with a passion for clean code and innovative solutions Seeking opportunities to contribute to dynamic teams and learn from experienced professionals</p>
 
 ### More About Me
 - 🌱 I’m currently learning
