@@ -43,7 +43,7 @@ About Me:
 <img src="https://img.icons8.com/?size=40&id=hGdCwhSHUe6L&format=png&color=000000" alt="Search">
 </a>
 <a href="https://dev.java/learn/">
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Search">
+<img src="https://img.icons8.com/?size=40&id=13679&format=png&color=000000" alt="Search">
 </a>
 
 
