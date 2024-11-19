@@ -30,7 +30,7 @@ About Me:
 
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=py,java,html,css,flutter,c,mysql,dart,git,github)
-[![Alt Text](  )](https://www.python.org/)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-t&exclude_repo=github-readme-stats,kiruthika-t.github.io)
