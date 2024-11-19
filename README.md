@@ -19,9 +19,20 @@ About Me:
 - 📫 How to reach me: kiruthikathangapandiyan@gmail.com
 - 😄 Pronouns: She/Her 
 
+### Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiruthika-t&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Connect with me:
 
+
+
 ### Languages and Tools:
+
+
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-t&exclude_repo=github-readme-stats,kiruthika-t.github.io)
 
