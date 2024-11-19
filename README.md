@@ -25,13 +25,26 @@ About Me:
 
 
 ### Connect with me:
-![My Skills](https://skillicons.dev/icons?i=linkedin,discord,instagram)
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+<a href="https://www.linkedin.com/in/kiruthika-t/">
+<img src="https://img.icons8.com/?size=40&id=vWcULbkKy3DN&format=png&color=000000" alt="Search">
+</a>
+<a href="https://www.linkedin.com/in/kiruthika-t/">
+<img src="https://img.icons8.com/?size=40&id=65646&format=png&color=000000" alt="Search">
+</a>
+<a href="https://www.linkedin.com/in/kiruthika-t/">
+<img src="https://img.icons8.com/?size=40&id=65646&format=png&color=000000" alt="Search">
+</a>
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=py,java,html,css,flutter,c,mysql,dart,git,github)
 
+
+<a href="https://www.python.org/">
+<img src="https://img.icons8.com/?size=40&id=hGdCwhSHUe6L&format=png&color=000000" alt="Search">
+</a>
+<a href="https://dev.java/learn/">
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Search">
+</a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-t&exclude_repo=github-readme-stats,kiruthika-t.github.io)
