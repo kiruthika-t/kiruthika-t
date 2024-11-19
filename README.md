@@ -25,7 +25,7 @@ About Me:
 
 
 ### Connect with me:
-
+![My Skills](https://skillicons.dev/icons?i=linkedin,discord,instagram)
 
 
 ### Languages and Tools:
