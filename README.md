@@ -27,6 +27,7 @@ About Me:
 ### Connect with me:
 ![My Skills](https://skillicons.dev/icons?i=linkedin,discord,instagram)
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=py,java,html,css,flutter,c,mysql,dart,git,github)
