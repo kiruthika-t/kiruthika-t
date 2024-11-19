@@ -29,7 +29,7 @@ About Me:
 
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=py,java,html,css,flutter,c,mysql,dart,git,github,discord)
+![My Skills](https://skillicons.dev/icons?i=py,java,html,css,flutter,c,mysql,dart,git,github)
 
 
 
