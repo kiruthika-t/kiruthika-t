@@ -29,7 +29,7 @@ About Me:
 
 
 ### Languages and Tools:
-
+![My Skills](https://skillicons.dev/icons?i=py,java,html,css,flutter,c,mysql,dart,git,github,discord)
 
 
 
@@ -38,3 +38,5 @@ About Me:
 
 
 ![Kiruthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiruthika-t&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kiruthika-t&theme=dark)](https://git.io/streak-stats)
