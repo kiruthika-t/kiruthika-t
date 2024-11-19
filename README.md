@@ -32,7 +32,7 @@ About Me:
 <a href="https://www.linkedin.com/in/kiruthika-t/">
 <img src="https://img.icons8.com/?size=40&id=vWcULbkKy3DN&format=png&color=000000" alt="Search">
 </a>
-<a href="https://www.linkedin.com/in/kiruthika-t/">
+<a href="https://www.discord.com/in/kiruthika6052/">
 <img src="https://img.icons8.com/?size=40&id=65646&format=png&color=000000" alt="Search">
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
