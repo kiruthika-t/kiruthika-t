@@ -71,8 +71,8 @@ About Me:
 <img src="https://img.icons8.com/?size=40&id=9nLaR5KFGjN0&format=png&color=000000" alt="Search">
 </a>
 
-
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-t&layout=compact)
+-->
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-t&exclude_repo=github-readme-stats,kiruthika-t.github.io)
 
 
