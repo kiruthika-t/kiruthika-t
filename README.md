@@ -27,7 +27,7 @@ About Me:
 ### Github Profile Trophy
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiruthika-t&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiruthika-t&no-bg=true)](https://github.com/kiruthika-t/github-profile-trophy)
 
 
 ### Connect with me:
