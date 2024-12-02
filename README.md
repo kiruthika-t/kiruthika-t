@@ -81,4 +81,7 @@ About Me:
 
 ![Kiruthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiruthika-t&show_icons=true&theme=default)
 
-
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kiruthika-t&theme=light" />
+    <img src="https://streak-stats.demolab.com?user=kiruthika-t&theme=default" />
+</picture>
